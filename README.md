@@ -1,14 +1,26 @@
 currently includes configuration for:
 
 - dunst
-- gimp
-- picom
 - rmpc
 - wal templates and colorschemes
-- qutebrowser
-- general shell stuff
 - zsh
-
+- fastfetch
+- GIMP
+- hypr
+- i3
+- kitty
+- mpd
+- mpv
+- neofetch
+- nvim
+- picom
+- qutebrowser
+- shell
+- st
+- starship.toml
+- wal
+- waybar
+- wofi
 
 and shortcut bindings for:
 - kdenlive
